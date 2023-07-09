@@ -179,26 +179,17 @@
             "url": "https://raw.gitmirror.com/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
             "name": "甜蜜线路"
         },	
-        {
-            "url": "https://源享家.ml/23424",
-            "name": "源享家线路"
-        },	
+   
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/swbqm/dybz/main/dybz.json ",
             "name": "大眼线路"
         },	
-        {
-            "url": " https://hk1.monika.love/tuji-2015/miao/main/TVBox/tvbox.json",
-            "name": "喵影视"
-        },	
+    
         {
             "url": "https://wsl201.github.io/mao/mao6.json",
             "name": "sp类视频源"
         },	
-        {
-            "url": "https://cdn.jsdelivr.net/gh/GDaily/TVbox@master/TVbox.text",
-            "name": "影视剧合集"
-        },	
+
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "阿里精品专线"
@@ -207,54 +198,33 @@
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json",
             "name": "一木自用"
         },	
-        {
-            "url": "https://pastebin.com/raw/GG51y0JG",
-            "name": "爬虫类影视"
-        },	   
-        {
-            "url": "https://pastebin.com/raw/yMNq26ND",
-            "name": "影视多多在线"
-        },	
+   
+     
         {
             "url": "http://120.53.102.254/tvb/py/",
             "name": "道长py"
         },	
-        {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/cfg.json",
-            "name": "道长_js线路"
-        },	
+     
         {
             "url": "https://pastebin.com/raw/gtbKvnE1",
             "name": "卧龙资源 "
         },	
-        {
-            "url": "https://pastebin.com/raw/sbPpDm9G",
-            "name": "无尽资源"
-        },	
+   
         {
             "url": "https://dxawi.github.io/0/0.json",
             "name": "Ray路线"
         },	
-        {
-            "url": "https://gitee.com/wdc558/TVBox/raw/master/Zhiyunyan.json",
-            "name": "纸云烟"
-        },	
+        
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00315.txt",
             "name": "应有尽有"
         },	
-        {
-            "url": " https://ghproxy.com/https://raw.githubusercontent.com/Cr-cm/1/main/1.json",
-            "name": "🚀酷友md线路"
-        },	
+    
         {
             "url": "http://home.jundie.top:81/TVBox/yosakoi.json",
             "name": "军碟线路"
         },	
-        {
-            "url": "https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/normal.json",
-            "name": "超多资源"
-        },	
+   
         {
             "url": "https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json",
             "name": "TVBOX爱浩者"
