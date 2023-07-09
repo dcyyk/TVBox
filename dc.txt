@@ -207,8 +207,8 @@
             "url": "https://pastebin.com/raw/GG51y0JG",
             "name": "爬虫类影视"
         },	        {
-            "url": "http://xzam.cn/tv",
-            "name": "小胡线路"
+            "url": "",
+            "name": ""
         },	
         {
             "url": "https://pastebin.com/raw/yMNq26ND",
