@@ -29,6 +29,10 @@
             "url": "：https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc2.json",
             "name": "月光宝盒MAX"
         },	
+     {
+            "url": "http://吃.砂锅.love:66/6/面真香啊",
+            "name": "烧锅线路"
+        },	
         {
             "url": "https://www.agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
             "name": "南风XC"
@@ -489,10 +493,7 @@
             "url": "https://gh.t4tv.hz.cz/newtang.bmp",
             "name": "唐三线路"
         },	
-      {
-            "url": "https://s2.pub/xmbjmxdc",
-            "name": "熊猫不叫猫线路"
-        },	
+ 
       {
             "url": "https://codeberg.org/jgfx/TVBox2/raw/branch/master/Json/jgpro.json",
             "name": "精简线路"
@@ -502,10 +503,7 @@
             "url": "https://agit.ai/wifi/ts/raw/branch/master/210.bmp",
             "name": "网友自用线路"
         },	
-      {
-            "url": "http://吃.砂锅.love:66/6/面真香啊",
-            "name": "烧锅线路"
-        },	
+ 
       {
             "url": "https://gitee.com/lekanbox/App/raw/master/ali.json",
             "name": "阿里无敌"
