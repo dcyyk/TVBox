@@ -3,13 +3,32 @@
     "urls":[
         {
             "url": "空",
-            "name": "大昌影音测试专用仓（别点无内容） "
+            "name": "大昌影音库（别点无内容） "
         },	
         {
             "url": "空",
             "name": "0709更新（别点无内容） "
         },	
-       
+             {
+            "url": "http://饭太硬.top/tv",
+            "name": "饭太硬线路"
+        },
+{
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "name": "肥猫线路"
+        },
+ {
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "吾爱线路"
+        },
+       {
+            "url": "https://jihulab.com/ygbh1/box/-/raw/main/ys.json",
+            "name": "月光宝盒影视线路"
+        },	
+  {
+            "url": "：https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc2.json",
+            "name": "月光宝盒MAX"
+        },	
         {
             "url": "https://www.agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
             "name": "南风XC"
@@ -26,23 +45,13 @@
             "url": "https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
             "name": "胖鸭线路"
         },
-        {
-            "url": "http://52bsj.vip:98/wuai",
-            "name": "吾爱线路"
-        },
+       
 
     {
             "url": "https://codeberg.org/jgfx/box88/raw/branch/master/jg.txt",
             "name": "🔘精选"
         },	
-        {
-            "url": "http://饭太硬.top/tv",
-            "name": "饭太硬线路"
-        },
-	    {
-            "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
-            "name": "月光宝盒"
-        },
+  
 	    {
             "url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
             "name": "zzz1线路"
@@ -69,10 +78,7 @@
             "name": "小雅线路"
         },
 
-{
-            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
-            "name": "肥猫线路"
-        },
+
         {
             "url": "https://yydsys.top/duo",
             "name": "应用多多家庭版"
@@ -202,10 +208,7 @@
         {
             "url": "https://pastebin.com/raw/GG51y0JG",
             "name": "爬虫类影视"
-        },	        {
-            "url": "http://xzam.cn/tv",
-            "name": "小胡线路"
-        },	
+        },	   
         {
             "url": "https://pastebin.com/raw/yMNq26ND",
             "name": "影视多多在线"
@@ -270,10 +273,7 @@
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "巧儿"
         },	
-        {
-            "url": "https://jihulab.com/ygbh1/box/-/raw/main/ys.json",
-            "name": "月光宝盒影视线路"
-        },	
+ 
        {
             "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
             "name": "霜辉月明py"
