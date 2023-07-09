@@ -8,11 +8,11 @@
         },	
         {
             "url": "空",
-            "name": "0705更新 "
+            "name": "0709更新 "
         },	
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/yyrh/main/hcxd.json",
-            "name": "荷城茶秀"
+            "url": "",
+            "name": ""
         },
         {
             "url": "https://www.agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
@@ -207,8 +207,8 @@
             "url": "https://pastebin.com/raw/GG51y0JG",
             "name": "爬虫类影视"
         },	        {
-            "url": "",
-            "name": ""
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/yyrh/main/hcxd.json",
+            "name": "荷城茶秀"
         },	
         {
             "url": "https://pastebin.com/raw/yMNq26ND",
